@@ -1,7 +1,7 @@
 # Final Assessment: Agile & DevOps in Practice
 **Project:** Milestone & Logbook Tracker API  
 **Framework:** Django / Python  
-**Author:** AmaliTech Trainee  
+**Author:** Dushimimana Prince 
 
 ---
 
